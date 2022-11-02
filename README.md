@@ -1,6 +1,15 @@
 <a name='assembly'></a>
 # ExerciceDocumentations
 
+## Prérequis
+- <a href="https://visualstudio.microsoft.com/fr/"> Visual Studio </a>
+
+- <a href="https://github.com/lijunle/Vsxmd"> Vsxmd</a>
+
+## Librairy
+
+- Realiste.cs
+
 ## Contents
 
 - [Realiste](#T-ExerciceDocumentations-Realiste 'ExerciceDocumentations.Realiste')
@@ -29,14 +38,7 @@ maClasse.
 
 ##### Summary
 
-## Prérequis
-- <a href="https://visualstudio.microsoft.com/fr/"> Visual Studio </a>
-
-- <a href="https://github.com/lijunle/Vsxmd"> Vsxmd</a>
-
-## Librairy
-
-- Realiste.cs
+Prérequis
 
 ##### Parameters
 

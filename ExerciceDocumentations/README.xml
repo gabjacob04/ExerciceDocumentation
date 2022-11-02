@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ExerciceDocumentations</name>
+    </assembly>
+    <members>
+        <member name="T:ExerciceDocumentations.Realiste">
+            <summary>
+            permet d'écrire et aussi du code peut entrer dedans
+            <code>
+            Realiste maClasse = new Realiste();
+            maClasse.
+            </code>
+            </summary>
+        </member>
+        <member name="F:ExerciceDocumentations.Realiste.nom">
+            <summary> est une classe nomme Realiste</summary>
+        </member>
+        <member name="M:ExerciceDocumentations.Realiste.#ctor(System.String,System.String,System.Int32)">
+            <summary>
+            Prérequis
+            </summary>
+            <param name="nom"></param>
+            <param name="prenom"></param>
+            <param name="age"></param>
+        </member>
+        <member name="M:ExerciceDocumentations.Realiste.test">
+            <summary>Fait un teste d'âge</summary>
+        </member>
+    </members>
+</doc>

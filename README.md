@@ -29,7 +29,7 @@ maClasse.
 
 ##### Summary
 
-#####Prérequis
+## Prérequis
 -<a href="https://visualstudio.microsoft.com/fr/"> Visual Studio </a>
 -<a href="https://github.com/lijunle/Vsxmd"> Vsxmd `</a>
 
